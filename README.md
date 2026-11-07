@@ -1,7 +1,7 @@
-# AI-Based Chest CT Scan Classification using Deep Learning
+# Chest CT Scan Classification using Deep Learning
 
 <p align="center">
-  <b>A multi-class medical image classification project using Transfer Learning and Attention-Based Multiple Instance Learning (MIL).</b>
+  <b>Multi-class chest CT image classification using Transfer Learning and Attention-Based Multiple Instance Learning (MIL).</b>
 </p>
 
 <p align="center">
@@ -13,33 +13,60 @@
 
 ---
 
-## Overview
+## Project Overview
 
-This project develops a deep learning pipeline to classify chest CT scan images into three categories:
+This project explores deep learning approaches for classifying chest CT scan images into three categories:
 
 - **COVID-19**
 - **Healthy**
 - **Other pulmonary conditions**
 
-The project explores transfer learning using a pretrained ResNet-18 model and extends it with an attention-based Multiple Instance Learning (MIL) architecture to perform patient-level classification.
+The pipeline uses transfer learning with a pretrained ResNet-18 model and extends it with an attention-based Multiple Instance Learning (MIL) architecture for patient-level classification.
 
-Rather than evaluating only individual CT slices, the MIL model aggregates information from multiple slices belonging to the same patient to generate a patient-level prediction.
+The central idea is to move beyond classifying individual CT slices and investigate how information from multiple slices can be aggregated to produce a patient-level prediction.
 
-The project focuses on model development, patient-level evaluation, interpretability, and the challenges of applying deep learning to medical imaging datasets.
+## CT Scan Samples
+
+Example images from the three dataset categories:
+
+<p align="center">
+  <img src="assets/ct_samples/covid_sample.png" width="30%" alt="COVID-19 CT scan sample" />
+  <img src="assets/ct_samples/healthy_sample.png" width="30%" alt="Healthy CT scan sample" />
+  <img src="assets/ct_samples/others_sample.png" width="30%" alt="Other pulmonary conditions CT scan sample" />
+</p>
+
+<p align="center">
+  <sub>COVID-19 · Healthy · Others</sub>
+</p>
+
+*These are sample images from the dataset, not diagnostic examples. Individual slices may not show all findings associated with their patient-level labels.*
 
 ## Project Architecture
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Input-Chest%20CT%20Images-blue" />
-  <br>↓<br>
-  <img src="https://img.shields.io/badge/Preprocessing-Resize%20%7C%20Normalize-lightgrey" />
-  <br>↓<br>
-  <img src="https://img.shields.io/badge/Feature%20Extraction-ResNet--18-orange" />
-  <br>↓<br>
-  <img src="https://img.shields.io/badge/Attention%20MIL-Patient%20Level-purple" />
-  <br>↓<br>
-  <img src="https://img.shields.io/badge/Output-3%20Class%20Prediction-success" />
-</p>
+```text
+              Chest CT Scan Images
+                       |
+                       v
+                Preprocessing
+             Resize and Normalise
+                       |
+                       v
+             ResNet-18 Feature Extraction
+                       |
+             512-D Slice Representations
+                       |
+                       v
+             Attention-Based MIL
+                       |
+              Weighted Aggregation
+                       |
+                       v
+              Patient-Level Classifier
+                       |
+                       v
+             3-Class Prediction
+       COVID-19 | Healthy | Others
+```
 
 ## Dataset
 
@@ -58,50 +85,48 @@ The dataset contains 4,171 PNG CT images organised into 210 patient folders.
 
 ### Dataset Preparation
 
-- Audited image dimensions, file integrity, and class distribution.
+- Audited image dimensions, file integrity and class distribution.
 - Identified duplicate images using image hashing.
 - Excluded two duplicate images from the modelling manifest.
 - Retained 4,169 images for model development.
-- Created training, validation, and test splits at the patient-folder level to prevent images from the same folder appearing across different splits.
+- Created training, validation and test splits at the patient-folder level to prevent images from the same folder appearing across different splits.
 
-**Note:** Patient-folder identifiers were constructed using class-qualified folder paths. Their correspondence to unique real-world patient identities across classes has not been independently verified.
+**Patient identity caveat:** Patient identifiers were constructed using class-qualified folder paths. Their correspondence to unique real-world patient identities across classes has not been independently verified.
 
 ## Methodology
 
 ### 1. Data Preprocessing
 
 - Resized images to 224 × 224 pixels.
-- Converted images to RGB format.
+- Converted images to RGB.
 - Applied ImageNet normalisation.
 - Used random rotation for training augmentation.
-- Created PyTorch Dataset and DataLoader pipelines.
+- Implemented PyTorch Dataset and DataLoader pipelines.
 
 ### 2. Transfer Learning with ResNet-18
 
 A pretrained ResNet-18 model was used as the baseline architecture.
 
-**Training strategy:**
 - Loaded pretrained ImageNet weights.
-- Froze the feature extraction layers initially.
+- Initially froze the feature extraction layers.
 - Replaced the final fully connected layer with a three-class classifier.
 - Used class-weighted Cross Entropy Loss to address class imbalance.
-- Fine-tuned the final ResNet layer with differential learning rates.
-- Used Adam optimisation, learning-rate scheduling, and early stopping.
+- Fine-tuned the final ResNet layer using differential learning rates.
+- Used Adam optimisation, learning-rate scheduling and early stopping.
 
 ### 3. Attention-Based Multiple Instance Learning
 
 The project was extended to patient-level classification using an attention-based MIL architecture.
 
-In this approach:
 - Each patient is represented as a bag of CT image slices.
 - A frozen ResNet-18 feature extractor generates a 512-dimensional representation for each slice.
 - An attention mechanism learns the relative importance of individual slices.
 - Weighted feature aggregation produces a patient-level representation.
 - A classification head predicts one of the three classes.
 
-The MIL model uses attention weights to identify which slices contribute more strongly to the final prediction.
+The attention mechanism provides slice-level weights indicating the relative contribution of each slice to the patient-level prediction.
 
-**Important:** The feature extractor was trained using slice-level labels before being used in the MIL pipeline. This is a transfer-learning-based MIL implementation.
+**Implementation note:** The ResNet-18 feature extractor was trained using slice-level labels before being used in the MIL pipeline. This is a transfer-learning-based MIL implementation.
 
 ## Results
 
@@ -114,13 +139,9 @@ Both models were evaluated on the same held-out test set of 32 patient folders.
 | Accuracy | 78.13% | 78.13% |
 | Macro F1-score | 0.7747 | 0.7739 |
 
-The two approaches achieved comparable performance on the test set.
+The two approaches achieved comparable performance on the test set. Attention MIL provides a patient-level aggregation mechanism, while ResNet-18 serves as the transfer-learning baseline.
 
-Attention MIL provides a patient-level aggregation mechanism, while ResNet-18 serves as the transfer-learning baseline.
-
-### Class-wise Performance
-
-**Attention MIL – Patient-Level Test Results**
+### Attention MIL — Class-wise Performance
 
 | Class | Precision | Recall | F1-score |
 |---|---:|---:|---:|
@@ -134,17 +155,17 @@ Attention MIL provides a patient-level aggregation mechanism, while ResNet-18 se
 
 ## Results & Visualisations
 
-### 1. ResNet-18 Confusion Matrix
+### ResNet-18 Confusion Matrix
 
 ![ResNet-18 Confusion Matrix](results/final_project_results/resnet18_reconstructed_confusion_matrix.png)
 
-### 2. Attention MIL Confusion Matrix
+### Attention MIL Confusion Matrix
 
 ![Attention MIL Confusion Matrix](results/final_project_results/attention_mil_confusion_matrix.png)
 
-### 3. MIL Training Performance
+### MIL Training Performance
 
-**Macro F1-score across epochs**
+**Macro F1-score**
 
 ![MIL F1 Curve](results/final_project_results/mil_f1_curve.png)
 
@@ -152,9 +173,7 @@ Attention MIL provides a patient-level aggregation mechanism, while ResNet-18 se
 
 ![MIL Loss Curve](results/final_project_results/mil_loss_curve.png)
 
-### 4. Model Comparison
-
-The following files contain additional evaluation results:
+### Additional Evaluation Files
 
 - [Model Comparison](results/final_project_results/model_comparison.csv)
 - [Patient-Level Comparison](results/final_project_results/patient_level_comparison.csv)
@@ -171,7 +190,7 @@ The project also explores model interpretability and prediction errors.
 - Compared correct and incorrect patient-level predictions.
 - Investigated high-confidence misclassifications and differences between the two architectures.
 
-Attention weights represent the relative contribution of slices within a patient bag. They should not be interpreted as pixel-level explanations or clinical evidence.
+Attention weights represent relative slice contributions within a patient bag. They are not pixel-level explanations or clinical evidence.
 
 ## Technology Stack
 
@@ -180,7 +199,7 @@ Attention weights represent the relative contribution of slices within a patient
 | Programming | Python |
 | Deep Learning | PyTorch, Torchvision |
 | Data Processing | NumPy, Pandas |
-| Image Processing | PIL, Matplotlib |
+| Image Processing | PIL |
 | Evaluation | Scikit-learn |
 | Visualisation | Matplotlib, Seaborn |
 | Environment | Google Colab, Google Drive |
@@ -190,6 +209,12 @@ Attention weights represent the relative contribution of slices within a patient
 
 ```text
 Chest-CT-Classifier/
+│
+├── assets/
+│   └── ct_samples/
+│       ├── covid_sample.png
+│       ├── healthy_sample.png
+│       └── others_sample.png
 │
 ├── notebooks/
 │   └── chest_ct_classifier.ipynb
@@ -207,23 +232,22 @@ Chest-CT-Classifier/
 │       ├── mil_loss_curve.png
 │       └── project_experiment_summary.json
 │
-├── models/
-├── src/
 ├── .gitignore
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## Limitations and Future Work
 
 - The dataset is relatively small and imbalanced.
 - Patient-level evaluation is based on 32 held-out patient folders.
-- Folder-level patient identity assumptions require further verification.
+- Patient identity assumptions based on folder naming require further verification.
 - The current pipeline uses 2D CT slices rather than full 3D CT volumes.
 - The models may learn dataset-specific patterns and require external validation.
 - Grad-CAM and attention weights do not establish clinical interpretability.
 
-**Potential improvements:**
+### Potential Improvements
+
 - Experiment with EfficientNet and other pretrained architectures.
 - Explore 3D CNN-based CT classification.
 - Investigate stronger patient-level aggregation methods.
@@ -236,4 +260,4 @@ This project is developed for educational and research purposes only. It is not 
 
 ---
 
-**Developed as a deep learning project exploring transfer learning, medical image classification, and attention-based patient-level learning.**
+**A deep learning project exploring transfer learning, medical image classification and attention-based patient-level learning.**
