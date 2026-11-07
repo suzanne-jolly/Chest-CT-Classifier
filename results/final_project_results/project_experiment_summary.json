@@ -1,0 +1,43 @@
+{
+    "project": "AI-Based Chest CT Classification using Transfer Learning and Attention MIL",
+    "dataset": "Soares and Angelov SARS-CoV-2 CT Scan Dataset",
+    "total_images_after_duplicate_exclusion": 4169,
+    "total_patient_folders": 210,
+    "splits": {
+        "train_patients": 147,
+        "validation_patients": 31,
+        "test_patients": 32
+    },
+    "classes": [
+        "Covid",
+        "Healthy",
+        "Others"
+    ],
+    "baseline": {
+        "architecture": "ResNet-18",
+        "approach": "Slice-level classification followed by mean probability aggregation",
+        "status": "Reconstructed from saved test slice probabilities; earlier reported result differs and requires audit"
+    },
+    "mil": {
+        "architecture": "Attention-based Multiple Instance Learning",
+        "feature_extractor": "Frozen Phase 2 ResNet-18",
+        "feature_dimension": 512,
+        "attention_dimension": 128,
+        "best_validation_macro_f1": 0.8707958707958707,
+        "best_epoch": 25
+    },
+    "test_results": {
+        "resnet18_reconstructed_accuracy": 0.78125,
+        "resnet18_reconstructed_macro_f1": 0.7746880570409983,
+        "mil_accuracy": 0.78125,
+        "mil_macro_f1": 0.773941460642228
+    },
+    "limitations": [
+        "Only 32 patients in the held-out test set.",
+        "Patient identifiers use class-qualified folder names; original patient identity conventions need verification.",
+        "MIL uses features from a ResNet-18 trained with slice-level supervision.",
+        "Attention weights are not clinical explanations.",
+        "Results are experimental and not intended for medical diagnosis.",
+        "Earlier ResNet-18 patient-level evaluation differs from the reconstructed evaluation and requires investigation."
+    ]
+}

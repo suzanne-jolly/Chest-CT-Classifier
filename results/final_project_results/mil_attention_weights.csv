@@ -1,0 +1,616 @@
+patient_id,image_path,true_label,attention_weight
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142601.png,Covid,0.01568622887134552
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142702.png,Covid,0.018357597291469574
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142752.png,Covid,0.016895266249775887
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142811.png,Covid,0.018996452912688255
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142835.png,Covid,0.015340462327003479
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142856.png,Covid,0.030411364510655403
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142924.png,Covid,0.03454623371362686
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 142951.png,Covid,0.016522834077477455
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143012.png,Covid,0.025475576519966125
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143036.png,Covid,0.020812567323446274
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143102.png,Covid,0.026344947516918182
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143131.png,Covid,0.03036423586308956
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143152.png,Covid,0.039394911378622055
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143228.png,Covid,0.03477087989449501
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143246.png,Covid,0.03921696916222572
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143319.png,Covid,0.05303889513015747
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143403.png,Covid,0.03279580548405647
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143431.png,Covid,0.038525331765413284
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143633.png,Covid,0.03111826442182064
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143701.png,Covid,0.05566186085343361
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143729.png,Covid,0.037859316915273666
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143754.png,Covid,0.03346524387598038
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143823.png,Covid,0.044579874724149704
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143850.png,Covid,0.0812763050198555
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143914.png,Covid,0.04375975951552391
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143937.png,Covid,0.04534145072102547
+Covid/Patient (11),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (11)/AnotaΓÇí╓╢o 2020-04-28 143956.png,Covid,0.11944139748811722
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190620.png,Covid,0.007477581035345793
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190743.png,Covid,0.00417571235448122
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190757.png,Covid,0.001768869231455028
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190814.png,Covid,0.00833397638052702
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190829.png,Covid,0.003560083219781518
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190848.png,Covid,0.002146796090528369
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190905.png,Covid,0.006088969297707081
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190923.png,Covid,0.00964501965790987
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190939.png,Covid,0.036046918481588364
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 190958.png,Covid,0.022774122655391693
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191028.png,Covid,0.0140640614554286
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191047.png,Covid,0.014913426712155342
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191105.png,Covid,0.013758158311247826
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191123.png,Covid,0.017796646803617477
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191140.png,Covid,0.22193410992622375
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191207.png,Covid,0.040248144418001175
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191232.png,Covid,0.022507162764668465
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191251.png,Covid,0.08738833665847778
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191310.png,Covid,0.0402446985244751
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191341.png,Covid,0.22828564047813416
+Covid/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (22)/AnotaΓÇí╓╢o 2020-04-29 191403.png,Covid,0.19684158265590668
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191645.png,Covid,0.012102986685931683
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191740.png,Covid,0.009074047207832336
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191759.png,Covid,0.016373736783862114
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191819.png,Covid,0.035020019859075546
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191837.png,Covid,0.03402816504240036
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191900.png,Covid,0.013382231816649437
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191924.png,Covid,0.025515183806419373
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 191946.png,Covid,0.018407538533210754
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192014.png,Covid,0.01576346531510353
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192037.png,Covid,0.02076921984553337
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192103.png,Covid,0.03342307358980179
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192127.png,Covid,0.031019428744912148
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192146.png,Covid,0.03516015037894249
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192222.png,Covid,0.03804723918437958
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192252.png,Covid,0.04378483444452286
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192321.png,Covid,0.029965361580252647
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192343.png,Covid,0.0348963662981987
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192404.png,Covid,0.18510638177394867
+Covid/Patient (28),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (28)/AnotaΓÇí╓╢o 2020-04-29 192427.png,Covid,0.36816051602363586
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134523.png,Covid,0.001677215564996004
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134628.png,Covid,0.003264213912189007
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134641.png,Covid,0.0008850302547216415
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134653.png,Covid,0.0011843482498079538
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134705.png,Covid,0.007169468328356743
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134724.png,Covid,0.03341309353709221
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134741.png,Covid,0.007099281530827284
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134801.png,Covid,0.016152000054717064
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134818.png,Covid,0.017113814130425453
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134831.png,Covid,0.004900654777884483
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134847.png,Covid,0.0033138094004243612
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134904.png,Covid,0.1867956966161728
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134919.png,Covid,0.007284381426870823
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134938.png,Covid,0.14787644147872925
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 134952.png,Covid,0.057923246175050735
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135006.png,Covid,0.016152890399098396
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135019.png,Covid,0.02401956170797348
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135036.png,Covid,0.011961906217038631
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135052.png,Covid,0.021218521520495415
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135110.png,Covid,0.01740647479891777
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135130.png,Covid,0.009756673127412796
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135149.png,Covid,0.009971585124731064
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135210.png,Covid,0.0126913171261549
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135230.png,Covid,0.07817649841308594
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135248.png,Covid,0.1835353523492813
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135302.png,Covid,0.08482716977596283
+Covid/Patient (29),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (29)/AnotaΓÇí╓╢o 2020-05-05 135316.png,Covid,0.034229397773742676
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145303.png,Covid,0.0010396154830232263
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145357.png,Covid,0.0011958593968302011
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145411.png,Covid,0.002160334028303623
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145421.png,Covid,0.001785583095625043
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145432.png,Covid,0.0012559742899611592
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145444.png,Covid,0.0007963345851749182
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145456.png,Covid,0.0012513838009908795
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145512.png,Covid,0.0018288204446434975
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145528.png,Covid,0.004343402571976185
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145543.png,Covid,0.00223601795732975
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145556.png,Covid,0.02022036537528038
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145607.png,Covid,0.01799902506172657
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145619.png,Covid,0.0675615519285202
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145631.png,Covid,0.035042040050029755
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145644.png,Covid,0.024305978789925575
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145657.png,Covid,0.009398536756634712
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145713.png,Covid,0.017486128956079483
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145727.png,Covid,0.0261235348880291
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145746.png,Covid,0.02135242335498333
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145759.png,Covid,0.018512684851884842
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145811.png,Covid,0.02842758409678936
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145823.png,Covid,0.06958329677581787
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145841.png,Covid,0.0071991803124547005
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145856.png,Covid,0.04034953936934471
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145912.png,Covid,0.07684497535228729
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145929.png,Covid,0.15309050679206848
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 145946.png,Covid,0.15129916369915009
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 150003.png,Covid,0.14121456444263458
+Covid/Patient (39),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (39)/AnotaΓÇí╓╢o 2020-05-05 150028.png,Covid,0.056095607578754425
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.06.png,Covid,0.03524312004446983
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.13.png,Covid,0.020744415000081062
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.19.png,Covid,0.03710364177823067
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.27.png,Covid,0.08759944885969162
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.34.png,Covid,0.041703589260578156
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.40.png,Covid,0.048232004046440125
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.48.png,Covid,0.025735169649124146
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.12.55.png,Covid,0.08736926317214966
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.01.png,Covid,0.03443751111626625
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.11.png,Covid,0.10901636630296707
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.18.png,Covid,0.09699524194002151
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.25.png,Covid,0.10108944028615952
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.32.png,Covid,0.06703316420316696
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.38.png,Covid,0.12440917640924454
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.43.png,Covid,0.03055078536272049
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.49.png,Covid,0.007194951176643372
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.13.55.png,Covid,0.0054025533609092236
+Covid/Patient (43),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (43)/Captura de Tela 2020-06-02 ├ás 09.14.03.png,Covid,0.04014018177986145
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.11.png,Covid,0.02046317420899868
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.16.png,Covid,0.021295174956321716
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.21.png,Covid,0.027445094659924507
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.26.png,Covid,0.0343468151986599
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.35.png,Covid,0.059386659413576126
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.47.47.png,Covid,0.06019521504640579
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.49.24.png,Covid,0.020134923979640007
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.49.31.png,Covid,0.02528894692659378
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.49.38.png,Covid,0.10522379726171494
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.49.45.png,Covid,0.11871064454317093
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.49.51.png,Covid,0.05487446486949921
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.01.png,Covid,0.038015492260456085
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.07.png,Covid,0.1299327313899994
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.13.png,Covid,0.038197100162506104
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.19.png,Covid,0.07095437496900558
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.26.png,Covid,0.0616178885102272
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.33.png,Covid,0.08654312789440155
+Covid/Patient (49),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (49)/Captura de Tela 2020-06-02 ├ás 09.50.39.png,Covid,0.027374373748898506
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 105815.png,Covid,0.02444315329194069
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 105936.png,Covid,0.014494952745735645
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110014.png,Covid,0.014608175493776798
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110052.png,Covid,0.011692501604557037
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110133.png,Covid,0.016715791076421738
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110203.png,Covid,0.18142111599445343
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110242.png,Covid,0.36920806765556335
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110319.png,Covid,0.029627159237861633
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110419.png,Covid,0.09740985929965973
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110526.png,Covid,0.030947567895054817
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110612.png,Covid,0.02612428180873394
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110643.png,Covid,0.021466653794050217
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110710.png,Covid,0.011655053123831749
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110734.png,Covid,0.09482385963201523
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 110759.png,Covid,0.011824499815702438
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 111449.png,Covid,0.008277074433863163
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 111515.png,Covid,0.008916295133531094
+Covid/Patient (53),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (53)/AnotaΓÇí╓╢o 2020-04-28 111543.png,Covid,0.026343917474150658
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170003.png,Covid,0.004284535069018602
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170135.png,Covid,0.00476502813398838
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170206.png,Covid,0.005373118445277214
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170224.png,Covid,0.005508704110980034
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170248.png,Covid,0.008177400566637516
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170309.png,Covid,0.004367536399513483
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170332.png,Covid,0.008335921913385391
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170357.png,Covid,0.013384941965341568
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170429.png,Covid,0.021466340869665146
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170449.png,Covid,0.02964898757636547
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170510.png,Covid,0.01775854267179966
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170532.png,Covid,0.012323603965342045
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170615.png,Covid,0.01670171692967415
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170640.png,Covid,0.012452269904315472
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170706.png,Covid,0.036836329847574234
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170732.png,Covid,0.03125103935599327
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 170752.png,Covid,0.07018691301345825
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 173843.png,Covid,0.07168463617563248
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 173909.png,Covid,0.027278222143650055
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 173952.png,Covid,0.02904840186238289
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174230.png,Covid,0.017965270206332207
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174518.png,Covid,0.013709484599530697
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174550.png,Covid,0.013894581235945225
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174611.png,Covid,0.00982179120182991
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174641.png,Covid,0.017221221700310707
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174709.png,Covid,0.01946156471967697
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 174954.png,Covid,0.060022030025720596
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 175023.png,Covid,0.15526407957077026
+Covid/Patient (61),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (61)/AnotaΓÇí├åo 2020-04-29 175048.png,Covid,0.26180577278137207
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/1.png,Covid,0.008173327893018723
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/10.png,Covid,0.020414169877767563
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/11.png,Covid,0.03657245635986328
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/12.png,Covid,0.00686525646597147
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/13.png,Covid,0.019501300528645515
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/14.png,Covid,0.006469600833952427
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/15.png,Covid,0.00861137080937624
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/16.png,Covid,0.013603433966636658
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/17.png,Covid,0.01708904094994068
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/18.png,Covid,0.018429389223456383
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/19.png,Covid,0.015015726909041405
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/2.png,Covid,0.00960043165832758
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/20.png,Covid,0.011416452005505562
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/21.png,Covid,0.005058108828961849
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/22.png,Covid,0.010173524729907513
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/23.png,Covid,0.011717402376234531
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/24.png,Covid,0.01456704456359148
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/25.png,Covid,0.021594330668449402
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/26.png,Covid,0.019857166334986687
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/27.png,Covid,0.018544789403676987
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/28.png,Covid,0.024051303043961525
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/29.png,Covid,0.010854057036340237
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/3.png,Covid,0.004946304485201836
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/30.png,Covid,0.03342876583337784
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/31.png,Covid,0.012735025025904179
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/32.png,Covid,0.03108861856162548
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/33.png,Covid,0.019889064133167267
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/34.png,Covid,0.060020286589860916
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/35.png,Covid,0.13337299227714539
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/36.png,Covid,0.041855331510305405
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/37.png,Covid,0.04798009619116783
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/38.png,Covid,0.08295737206935883
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/39.png,Covid,0.0810382291674614
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/40.png,Covid,0.048546213656663895
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/5.png,Covid,0.010290579870343208
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/6.png,Covid,0.01684698276221752
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/7.png,Covid,0.008977741934359074
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/8.png,Covid,0.013818704523146152
+Covid/Patient (72),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (72)/9.png,Covid,0.024027949199080467
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/1.png,Covid,0.02434532158076763
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/10.png,Covid,0.005628312472254038
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/11.png,Covid,0.003355222288519144
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/12.png,Covid,0.005342189222574234
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/13.png,Covid,0.0024710609577596188
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/14.png,Covid,0.007021937053650618
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/15.png,Covid,0.001937401364557445
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/16.png,Covid,0.005938634276390076
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/17.png,Covid,0.007776876911520958
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/18.png,Covid,0.011004709638655186
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/19.png,Covid,0.012301252223551273
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/2.png,Covid,0.07842417806386948
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/20.png,Covid,0.024581236764788628
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/21.png,Covid,0.039413198828697205
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/22.png,Covid,0.010260394774377346
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/23.png,Covid,0.10972701013088226
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/24.png,Covid,0.028014374896883965
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/25.png,Covid,0.004315893165767193
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/26.png,Covid,0.02487136982381344
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/27.png,Covid,0.005654920358210802
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/28.png,Covid,0.0031651905737817287
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/29.png,Covid,0.016623547300696373
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/3.png,Covid,0.002686218824237585
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/30.png,Covid,0.006925919093191624
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/31.png,Covid,0.01219822559505701
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/32.png,Covid,0.16907456517219543
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/33.png,Covid,0.0855826810002327
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/34.png,Covid,0.16299615800380707
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/35.png,Covid,0.08166132867336273
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/4.png,Covid,0.003129578661173582
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/5.png,Covid,0.0061957272700965405
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/6.png,Covid,0.011979424394667149
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/7.png,Covid,0.0014956493396311998
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/8.png,Covid,0.02150232158601284
+Covid/Patient (78),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (78)/9.png,Covid,0.0023979779798537493
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204436.png,Covid,0.0004660339327529073
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204605.png,Covid,0.00013783361646346748
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204618.png,Covid,0.0012000910937786102
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204630.png,Covid,0.0022608775179833174
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204643.png,Covid,0.008957954123616219
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204654.png,Covid,0.0025789812207221985
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204707.png,Covid,0.0038938107900321484
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204725.png,Covid,0.005030682776123285
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204737.png,Covid,0.025522254407405853
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204800.png,Covid,0.01773422583937645
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204817.png,Covid,0.007990691810846329
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204831.png,Covid,0.021261712536215782
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204848.png,Covid,0.003278617514297366
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204910.png,Covid,0.0462212860584259
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204923.png,Covid,0.013468338176608086
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204937.png,Covid,0.017785124480724335
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 204950.png,Covid,0.011494290083646774
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205003.png,Covid,0.07441603392362595
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205018.png,Covid,0.021715879440307617
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205035.png,Covid,0.015455322340130806
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205051.png,Covid,0.004626103211194277
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205117.png,Covid,0.010228609666228294
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205136.png,Covid,0.0677814856171608
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205156.png,Covid,0.040483370423316956
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205210.png,Covid,0.08966332674026489
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205227.png,Covid,0.07275561988353729
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205248.png,Covid,0.06513821333646774
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205303.png,Covid,0.08456621319055557
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205320.png,Covid,0.076877161860466
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205340.png,Covid,0.07542873919010162
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205358.png,Covid,0.06346722692251205
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205416.png,Covid,0.006446364335715771
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205432.png,Covid,0.03092673048377037
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205446.png,Covid,0.006495864596217871
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205459.png,Covid,0.0023207447957247496
+Covid/Patient (8),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Covid/Patient (8)/AnotaΓÇí╓╢o 2020-05-05 205512.png,Covid,0.0019241784466430545
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.14.51.png,Healthy,0.0189181100577116
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.01.png,Healthy,0.051070597022771835
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.07.png,Healthy,0.032039303332567215
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.14.png,Healthy,0.027248194441199303
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.21.png,Healthy,0.030671484768390656
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.32.png,Healthy,0.055658239871263504
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.44.png,Healthy,0.09353076666593552
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.52.png,Healthy,0.06586164236068726
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.15.59.png,Healthy,0.10814839601516724
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.16.09.png,Healthy,0.09353088587522507
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.16.24.png,Healthy,0.0421377457678318
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.16.38.png,Healthy,0.03576533496379852
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.16.48.png,Healthy,0.034006912261247635
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.16.58.png,Healthy,0.06529773771762848
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.17.05.png,Healthy,0.08166537433862686
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.17.11.png,Healthy,0.06216372922062874
+Healthy/Patient (16),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (16)/Captura de Tela 2020-05-30 ├ás 11.17.18.png,Healthy,0.10228560119867325
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.02.png,Healthy,0.019094474613666534
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.06.png,Healthy,0.020159171894192696
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.11.png,Healthy,0.023347610607743263
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.18.png,Healthy,0.026130780577659607
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.26.png,Healthy,0.02974715828895569
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.33.png,Healthy,0.044962041079998016
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.39.png,Healthy,0.07288965582847595
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.45.png,Healthy,0.025540828704833984
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.51.png,Healthy,0.028564095497131348
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.16.59.png,Healthy,0.17883151769638062
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.06.png,Healthy,0.08270370960235596
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.16.png,Healthy,0.05151481181383133
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.24.png,Healthy,0.05229559168219566
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.30.png,Healthy,0.14459645748138428
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.38.png,Healthy,0.04223743826150894
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.44.png,Healthy,0.053979746997356415
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.52.png,Healthy,0.036942802369594574
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.17.58.png,Healthy,0.019985521212220192
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.18.04.png,Healthy,0.028557606041431427
+Healthy/Patient (17),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (17)/Captura de Tela 2020-06-02 ├ás 10.18.09.png,Healthy,0.017918968573212624
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.15.01.png,Healthy,0.1284378618001938
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.15.08.png,Healthy,0.11194001138210297
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.15.23.png,Healthy,0.11130940914154053
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.15.44.png,Healthy,0.10987669974565506
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.16.03.png,Healthy,0.13627557456493378
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.16.19.png,Healthy,0.06362956017255783
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.18.14.png,Healthy,0.08541184663772583
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.18.24.png,Healthy,0.10468043386936188
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.18.42.png,Healthy,0.06748887896537781
+Healthy/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (22)/Captura de Tela 2020-05-30 ├ás 10.18.57.png,Healthy,0.08094974607229233
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.25.36.png,Healthy,0.037167809903621674
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.25.50.png,Healthy,0.08676092326641083
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.26.05.png,Healthy,0.08641957491636276
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.26.20.png,Healthy,0.14284418523311615
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.26.35.png,Healthy,0.0951390489935875
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.26.49.png,Healthy,0.05800262838602066
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.27.04.png,Healthy,0.0433967262506485
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.27.19.png,Healthy,0.07884922623634338
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.27.33.png,Healthy,0.10418101400136948
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.27.50.png,Healthy,0.032754138112068176
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.28.11.png,Healthy,0.09978190064430237
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.28.29.png,Healthy,0.0602472648024559
+Healthy/Patient (31),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (31)/Captura de Tela 2020-05-30 ├ás 03.28.46.png,Healthy,0.074455626308918
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.07.png,Healthy,0.0412578284740448
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.14.png,Healthy,0.031285230070352554
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.21.png,Healthy,0.03987465798854828
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.30.png,Healthy,0.034679777920246124
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.37.png,Healthy,0.039872244000434875
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.44.png,Healthy,0.03476231172680855
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.51.png,Healthy,0.05334319546818733
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.10.59.png,Healthy,0.04982641711831093
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.06.png,Healthy,0.03877291455864906
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.12.png,Healthy,0.040806423872709274
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.19.png,Healthy,0.039724886417388916
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.30.png,Healthy,0.056609321385622025
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.38.png,Healthy,0.05527942627668381
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.45.png,Healthy,0.045701079070568085
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.51.png,Healthy,0.054486021399497986
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.11.58.png,Healthy,0.05388861522078514
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.12.06.png,Healthy,0.06236180663108826
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.12.16.png,Healthy,0.07362701743841171
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.12.23.png,Healthy,0.0717632845044136
+Healthy/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (35)/Captura de Tela 2020-06-02 ├ás 00.12.32.png,Healthy,0.08207755535840988
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.40.01.png,Healthy,0.042335569858551025
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.40.12.png,Healthy,0.044616468250751495
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.40.25.png,Healthy,0.0522250160574913
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.40.39.png,Healthy,0.030219214037060738
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.40.54.png,Healthy,0.03383896127343178
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.41.10.png,Healthy,0.05453082174062729
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.41.24.png,Healthy,0.04558901488780975
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.41.38.png,Healthy,0.03785586357116699
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.41.52.png,Healthy,0.04412553086876869
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.42.07.png,Healthy,0.03093409352004528
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.42.24.png,Healthy,0.05567721277475357
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.42.39.png,Healthy,0.07438632845878601
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.42.54.png,Healthy,0.04798807576298714
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.43.15.png,Healthy,0.06819778680801392
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.43.31.png,Healthy,0.10198245197534561
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.43.54.png,Healthy,0.07223274558782578
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.44.11.png,Healthy,0.07948535680770874
+Healthy/Patient (46),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (46)/Captura de Tela 2020-05-30 ├ás 03.44.26.png,Healthy,0.0837794840335846
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.47.47.png,Healthy,0.05766421556472778
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.48.01.png,Healthy,0.08560243248939514
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.48.16.png,Healthy,0.043068286031484604
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.48.32.png,Healthy,0.02349049225449562
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.48.49.png,Healthy,0.09157922118902206
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.49.05.png,Healthy,0.024524720385670662
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.49.20.png,Healthy,0.0248276237398386
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.49.34.png,Healthy,0.03418014571070671
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.49.47.png,Healthy,0.03739246353507042
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.50.02.png,Healthy,0.09383527934551239
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.50.18.png,Healthy,0.16650952398777008
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.50.39.png,Healthy,0.08666781336069107
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.50.56.png,Healthy,0.04487353190779686
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.51.17.png,Healthy,0.03613707050681114
+Healthy/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (5)/Captura de Tela 2020-05-30 ├ás 03.51.35.png,Healthy,0.14964719116687775
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.00.png,Healthy,0.038232896476984024
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.07.png,Healthy,0.045512501150369644
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.13.png,Healthy,0.040320985019207
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.23.png,Healthy,0.045210957527160645
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.30.png,Healthy,0.041921477764844894
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.38.png,Healthy,0.050284698605537415
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.44.png,Healthy,0.06001337990164757
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.55.55.png,Healthy,0.08061105757951736
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.02.png,Healthy,0.04783105477690697
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.09.png,Healthy,0.05825153738260269
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.15.png,Healthy,0.09105201810598373
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.22.png,Healthy,0.08064322918653488
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.29.png,Healthy,0.06438881158828735
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.36.png,Healthy,0.07359486073255539
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.45.png,Healthy,0.12311254441738129
+Healthy/Patient (9),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Healthy/Patient (9)/Captura de Tela 2020-06-03 ├ás 10.56.51.png,Healthy,0.05901797115802765
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.06.png,Others,0.00455393036827445
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.22.png,Others,0.07145391404628754
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.30.png,Others,0.06330074369907379
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.37.png,Others,0.05859462544322014
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.46.png,Others,0.07649163901805878
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.11.54.png,Others,0.08338718116283417
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.12.01.png,Others,0.10122821480035782
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.12.13.png,Others,0.11330420523881912
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.12.20.png,Others,0.061510976403951645
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.13.17.png,Others,0.10927575081586838
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.13.26.png,Others,0.07299857586622238
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.13.33.png,Others,0.10526195913553238
+Others/Patient (12),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (12)/Captura de Tela 2020-05-30 ├ás 20.13.40.png,Others,0.07863838225603104
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.00.png,Others,0.003808866022154689
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.06.png,Others,0.0047453586012125015
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.10.png,Others,0.013205956667661667
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.15.png,Others,0.00648151570931077
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.20.png,Others,0.05778513103723526
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.33.png,Others,0.033640868961811066
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.50.png,Others,0.09782928973436356
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.27.58.png,Others,0.0624605193734169
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.06.png,Others,0.041622258722782135
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.13.png,Others,0.15808212757110596
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.21.png,Others,0.09393755346536636
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.28.png,Others,0.0646013393998146
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.36.png,Others,0.18144667148590088
+Others/Patient (14),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (14)/Captura de Tela 2020-05-30 ├ás 12.28.42.png,Others,0.1803525686264038
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.18.48.png,Others,0.0011396418558433652
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.18.57.png,Others,0.000492360966745764
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.19.22.png,Others,0.0006754035130143166
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.19.30.png,Others,0.0006698139477521181
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.19.39.png,Others,0.0010418456513434649
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.19.50.png,Others,0.0011425474658608437
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.20.00.png,Others,0.013374779373407364
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.20.08.png,Others,0.1844410002231598
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.20.15.png,Others,0.03906914219260216
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.20.23.png,Others,0.4349164366722107
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.21.07.png,Others,0.27802786231040955
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.21.17.png,Others,0.02205008827149868
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.21.25.png,Others,0.006376977078616619
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.21.34.png,Others,0.007665592711418867
+Others/Patient (22),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (22)/Captura de Tela 2020-05-30 ├ás 12.21.44.png,Others,0.008916535414755344
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.54.13.png,Others,0.046523962169885635
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.54.21.png,Others,0.03750201687216759
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.54.27.png,Others,0.10360853374004364
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.54.36.png,Others,0.07317639887332916
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.54.57.png,Others,0.11266256868839264
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.55.12.png,Others,0.3193749487400055
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.55.42.png,Others,0.06614425033330917
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.55.52.png,Others,0.018377836793661118
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.56.04.png,Others,0.013038648292422295
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.56.14.png,Others,0.009923472069203854
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.56.29.png,Others,0.09003587812185287
+Others/Patient (35),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (35)/Captura de Tela 2020-06-01 ├ás 09.56.49.png,Others,0.10963146388530731
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 09.59.50.png,Others,0.013544685207307339
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 09.59.57.png,Others,0.020817028358578682
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.00.08.png,Others,0.07113227248191833
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.00.32.png,Others,0.012096453458070755
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.00.48.png,Others,0.06675295531749725
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.01.07.png,Others,0.021437089890241623
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.01.18.png,Others,0.06269387155771255
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.01.26.png,Others,0.08923476934432983
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.01.34.png,Others,0.12767411768436432
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.01.47.png,Others,0.20369268953800201
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.02.27.png,Others,0.09065397828817368
+Others/Patient (41),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (41)/Captura de Tela 2020-06-01 ├ás 10.02.34.png,Others,0.2202700972557068
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.11.png,Others,0.05115614831447601
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.20.png,Others,0.05423981696367264
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.28.png,Others,0.04598253592848778
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.36.png,Others,0.02659185603260994
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.44.png,Others,0.03172513470053673
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.52.58.png,Others,0.06366054713726044
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.05.png,Others,0.07328851521015167
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.12.png,Others,0.04036201164126396
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.19.png,Others,0.06631063669919968
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.26.png,Others,0.14887244999408722
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.38.png,Others,0.06823614239692688
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.52.png,Others,0.07385631650686264
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.53.59.png,Others,0.07682322710752487
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.54.07.png,Others,0.0645967647433281
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.54.16.png,Others,0.053258270025253296
+Others/Patient (47),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (47)/Captura de Tela 2020-06-01 ├ás 15.54.22.png,Others,0.06103968620300293
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.51.11.png,Others,0.0033466173335909843
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.51.20.png,Others,0.018763422966003418
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.51.29.png,Others,0.004646623972803354
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.51.40.png,Others,0.026258796453475952
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.51.52.png,Others,0.03362123295664787
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.01.png,Others,0.0050151152536273
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.11.png,Others,0.003986876457929611
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.22.png,Others,0.006460443139076233
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.32.png,Others,0.019520126283168793
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.41.png,Others,0.031103074550628662
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.52.53.png,Others,0.030730556696653366
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.53.02.png,Others,0.021036433055996895
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.53.13.png,Others,0.10714499652385712
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.53.22.png,Others,0.031444352120161057
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.53.30.png,Others,0.12033788114786148
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.53.40.png,Others,0.10685976594686508
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.54.08.png,Others,0.12210659682750702
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.54.18.png,Others,0.12475629150867462
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.54.28.png,Others,0.11535915732383728
+Others/Patient (5),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (5)/Captura de Tela 2020-05-30 ├ás 02.54.40.png,Others,0.06750159710645676
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.17.png,Others,0.017957599833607674
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.24.png,Others,0.03371341899037361
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.32.png,Others,0.041494134813547134
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.39.png,Others,0.032678645104169846
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.46.png,Others,0.015163089148700237
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.52.png,Others,0.07828815281391144
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.17.58.png,Others,0.04997370019555092
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.08.png,Others,0.05069175735116005
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.16.png,Others,0.03898487985134125
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.22.png,Others,0.04375484585762024
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.29.png,Others,0.044153306633234024
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.36.png,Others,0.05427161604166031
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.43.png,Others,0.17958903312683105
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.18.53.png,Others,0.1430850327014923
+Others/Patient (55),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (55)/Captura de Tela 2020-06-01 ├ás 15.19.01.png,Others,0.1762007772922516
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.48.42.png,Others,0.004744266625493765
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.10.png,Others,0.014363250695168972
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.20.png,Others,0.020319567993283272
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.28.png,Others,0.01769328862428665
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.37.png,Others,0.05201662704348564
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.43.png,Others,0.059452347457408905
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.49.55.png,Others,0.14500367641448975
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.11.png,Others,0.037957776337862015
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.23.png,Others,0.020717578008770943
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.30.png,Others,0.05436525121331215
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.40.png,Others,0.023323962464928627
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.47.png,Others,0.14527441561222076
+Others/Patient (60),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (60)/Captura de Tela 2020-05-30 ├ás 12.50.58.png,Others,0.4047679901123047
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.42.25.png,Others,0.025948120281100273
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.42.42.png,Others,0.058104462921619415
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.42.53.png,Others,0.032797373831272125
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.00.png,Others,0.019936146214604378
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.08.png,Others,0.02323601394891739
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.14.png,Others,0.025517310947179794
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.22.png,Others,0.08446278423070908
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.29.png,Others,0.11063092947006226
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.37.png,Others,0.1188652366399765
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.45.png,Others,0.16527965664863586
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.43.55.png,Others,0.09496628493070602
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.44.14.png,Others,0.04890802875161171
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.44.21.png,Others,0.05378832295536995
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.44.36.png,Others,0.051385946571826935
+Others/Patient (62),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (62)/Captura de Tela 2020-06-01 ├ás 15.44.44.png,Others,0.08617333322763443
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.08.27.png,Others,0.0843241810798645
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.08.35.png,Others,0.016000080853700638
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.08.43.png,Others,0.07674134522676468
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.08.51.png,Others,0.09263181686401367
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.00.png,Others,0.12201043218374252
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.07.png,Others,0.10259806364774704
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.13.png,Others,0.09085008502006531
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.19.png,Others,0.18783703446388245
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.27.png,Others,0.11769504845142365
+Others/Patient (66),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (66)/Captura de Tela 2020-05-30 ├ás 03.09.36.png,Others,0.10931190848350525
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.05.55.png,Others,0.0047377594746649265
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.01.png,Others,0.005564711522310972
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.11.png,Others,0.005712938029319048
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.21.png,Others,0.004973309114575386
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.30.png,Others,0.013018152676522732
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.39.png,Others,0.005979357752948999
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.47.png,Others,0.0396285355091095
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.06.57.png,Others,0.04638277366757393
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.07.08.png,Others,0.19530707597732544
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.07.18.png,Others,0.15024644136428833
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.07.28.png,Others,0.2022685408592224
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.07.38.png,Others,0.053188227117061615
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.07.47.png,Others,0.10591747611761093
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.08.05.png,Others,0.12494640052318573
+Others/Patient (69),/content/drive/MyDrive/chest_ct_classifier/data/raw/extracted/New_Data_CoV2/Others/Patient (69)/Captura de Tela 2020-06-01 ├ás 10.08.13.png,Others,0.04212832450866699
