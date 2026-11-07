@@ -1,0 +1,24 @@
+# Dataset and extracted images
+data/
+**/New_Data_CoV2/
+*.dcm
+
+# Model checkpoints
+models/*.pth
+models/*.pt
+*.ckpt
+*.h5
+
+# Python / Colab
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+credentials.json
+
+# Temporary files
+.DS_Store
+*.log
